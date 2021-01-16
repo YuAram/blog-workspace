@@ -1,4 +1,3 @@
 # blog-workspace
-블로그 게시물 참고 코드
-
-https://runaramrun.tistory.com/
+블로그 참고 코드
+블로그 주소 : https://runaramrun.tistory.com/

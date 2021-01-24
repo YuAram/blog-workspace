@@ -1,7 +1,3 @@
-# Chap01 기본 알고리즘
+# Chap01 기본 알고리즘 블로그 주소 : https://runaramrun.tistory.com/entry/doit-algorithm-java-01
 
-- 공부 내용 : Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바 편 (12p ~ 40p)
-- 공부 날짜 : 2021-01-17<일>
-- 폴더 위치 : data-structure-algorithm/chap01
-- 블로그 주소 : https://runaramrun.tistory.com/entry/doit-algorithm-java-01
-
+# # Chap02 기본 자료구조 블로그 주소 : https://runaramrun.tistory.com/entry/doit-algorithm-java-02
